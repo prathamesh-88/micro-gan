@@ -1,0 +1,15 @@
+# Test files, dataset and misc files
+misc
+dataset1*
+training_checkpoints
+notebooks
+initial
+
+# Virtual Environments
+venv
+
+# Code Editors
+.vscode
+
+# Python Cache
+__pycache__
