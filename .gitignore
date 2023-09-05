@@ -1,6 +1,6 @@
 # Test files, dataset and misc files
 misc
-dataset1*
+dataset*
 training_checkpoints
 notebooks
 initial
